@@ -1,4 +1,4 @@
-/// <reference path="../../@types/cheerio/index.d.ts" />
+/// <reference path="../../../@types/cheerio/index.d.ts" />
 
 declare namespace scrapeIt {
     export interface ScrapeOptions {
