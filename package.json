@@ -1,5 +1,5 @@
 {
-  "name": "scrape-it",
+  "name": "@slikts/scrape-it",
   "description": "A Node.js scraper for humans.",
   "keywords": [
     "scrape",
@@ -46,6 +46,9 @@
     "@types/cheerio": "^0.22.6",
     "lien": "^1.0.1",
     "tester": "^1.4.1"
+  },
+  "peerDependencies": {
+    "@types/cheerio": "^0.22.7"
   },
   "files": [
     "bin/",
